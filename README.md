@@ -2,7 +2,7 @@
 ShadowKeep is a high-performance, offline-first Cognitive Operating System designed for deep work and intentionality. Unlike standard to-do lists that just track what you need to do, ShadowKeep tracks how you think, ensuring you learn from your actions.
 It features a "Tactical/Cyber-Noir" aesthetic designed to reduce eye strain and induce a state of flow.
 # Distinct & Important Features:
-# The Matrix (Objectives & Tasks):
+# The Matrix (Objectives & Tasks)
  A command-line inspired task manager with sub-objectives, project stacks, and "Strategic Intent" fields (defining why a task matters).
 Includes Protocol Timers for focused work sessions attached directly to tasks.
 # The Vault (Notes):
