@@ -32,8 +32,6 @@ You need Node.js installed on your computer. If you don't have it, download the 
 1. Clone the Repository
 2. Open your terminal (Command Prompt, PowerShell, or Terminal) and run:
 3. 
-code
-Bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 Install Dependencies
