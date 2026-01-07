@@ -7,7 +7,8 @@ It features a "Tactical/Cyber-Noir" aesthetic designed to reduce eye strain and 
 Includes Protocol Timers for focused work sessions attached directly to tasks.
 ## The Vault (Notes):
 A rich-text knowledge base.
-## Synthesis Engine ("The Loop"): A unique feature that forces you to review completed tasks and decisions, extracting "Lessons" that are automatically saved to your Vault.
+## Synthesis Engine ("The Loop"):
+A unique feature that forces you to review completed tasks and decisions, extracting "Lessons" that are automatically saved to your Vault.
 ## Decision Journal:
 Prevents hindsight bias by forcing you to log the context, expected outcome, and confidence level (1-100%) before making a decision.
 Includes an automated Review Protocol to audit decisions after the fact.
